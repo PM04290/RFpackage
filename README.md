@@ -18,3 +18,8 @@ with examples :
 - endpoint Analog sensor (TX) and switch (RX)
 - endpoint Switch only (RX)
 - Gateway from RFpackage to serial2mqtt (Home Assistant Add-on)
+
+Tested on :
+- Arduino Nano,
+- Digispark (ATtiny85 and 167) for end point onlly, not for gateway because of pin numbers
+- ESP8266
