@@ -1,6 +1,7 @@
 # RFpackage
-Arduino library, high level class for RF 433MHz TX/RX
-Each end point have an address from 1 to 99 and child node from 1 to 99 (input or output)
+Arduino library, high level class for RF 433MHz TX/RX.
+
+Each end point have an address from 1 to 99 and child node from 1 to 99 (input or output).
 A gateway have address 0
 
 There is 4 methods to publish/get data :
